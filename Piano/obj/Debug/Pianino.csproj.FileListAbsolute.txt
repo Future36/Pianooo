@@ -1,0 +1,8 @@
+C:\Users\rusla\source\repos\Pianino\Pianino\bin\Debug\Pianino.exe.config
+C:\Users\rusla\source\repos\Pianino\Pianino\bin\Debug\Pianino.exe
+C:\Users\rusla\source\repos\Pianino\Pianino\bin\Debug\Pianino.pdb
+C:\Users\rusla\source\repos\Pianino\Pianino\obj\Debug\Pianino.csproj.AssemblyReference.cache
+C:\Users\rusla\source\repos\Pianino\Pianino\obj\Debug\Pianino.csproj.SuggestedBindingRedirects.cache
+C:\Users\rusla\source\repos\Pianino\Pianino\obj\Debug\Pianino.csproj.CoreCompileInputs.cache
+C:\Users\rusla\source\repos\Pianino\Pianino\obj\Debug\Pianino.exe
+C:\Users\rusla\source\repos\Pianino\Pianino\obj\Debug\Pianino.pdb
